@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working as a **Frontend Developer at Artixcore.** My role involves leading the development of responsive and user-friendly web applications. I'm responsible for implementing cutting-edge designs, optimizing website performance, and ensuring cross-browser compatibility.
 
-- 👨‍💻 Check out my latest projects on my [Portfolio](https://iibrahim-dev.netlify.app/). These projects showcase my skills in Tailwind CSS, React Js, Next Js,Redux, RTK Query, React Hook Form, Shadcn UI, Ant Design, Axios, Tanstack Query, and Firebase Authentication.
+- 👨‍💻 Feel free to explore my latest projects on my [Portfolio](https://iibrahim-dev.netlify.app/) or explore them in detail below:
 
   - **[Giver's Heaven](https://givers-heaven.netlify.app/):** Led the development of Giver's Heaven, a disaster relief donation platform. Employed React, Typescript, and Redux for frontend, and Node.js, Express, and MongoDB for backend. Ensured seamless UI interaction and integrated a comprehensive dashboard for efficient data management.
 
